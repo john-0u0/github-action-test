@@ -19,7 +19,7 @@ public class ResourceLeakExample {
 //            e.printStackTrace();
 //        }
        // Resource leak: 'reader' is never closed on normal or exceptional execution paths
-   }
+//    }
     
     
    public static void main(String[] args) {
